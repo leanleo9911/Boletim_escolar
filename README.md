@@ -1,5 +1,5 @@
-Leonardo Santos Costa-2504288
-Glória Mariano Feliciano - 2504112
+Leonardo Santos Costa - 2504288
+  Glória Mariano Feliciano - 2504112
 # Sistema de Gestão de Boletins Escolares
 
 ## 📋 Descrição
