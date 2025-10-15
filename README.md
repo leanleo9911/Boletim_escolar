@@ -1,7 +1,8 @@
+Leonardo Santos Costa-2504288
+Glória Mariano Feliciano - 2504112
 # Sistema de Gestão de Boletins Escolares
 
 ## 📋 Descrição
-
 Sistema completo desenvolvido em TypeScript para gestão de boletins escolares. A aplicação permite cadastrar alunos, calcular médias, determinar aprovação/reprovação e gerar relatórios em formato texto e CSV.
 
 ## 🎯 Funcionalidades
